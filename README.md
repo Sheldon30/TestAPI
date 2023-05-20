@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/nor32v04pduc74yy?svg=true)](https://ci.appveyor.com/project/Sheldon30/testapi-if37g)
+[![Build status](https://ci.appveyor.com/api/projects/status/n3vh2ngkardhf18s?svg=true)](https://ci.appveyor.com/project/Sheldon30/testapi-bw9m0)
